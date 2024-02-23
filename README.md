@@ -17,8 +17,8 @@ sudo pacman -Syu stow
 
 On Debian based distributions:
 ```bash
-sudo apt update; 
-sudo apt upgrade;
+sudo apt update 
+sudo apt upgrade
 sudo apt install stow
 ```
 
