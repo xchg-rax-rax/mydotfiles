@@ -267,7 +267,7 @@ bindkey '^R' history-incremental-search-backward
 export _JAVA_AWT_WM_NONREPARENTING=1
 
 # pretty stuff
-wal -R &>/dev/null 
+wal -a 85 -R &>/dev/null 
 neofetch
 echo "\nWHEN YOU HAVE A SET OF CREDENTIALS TRY THEM LITERALLY EVERYWHERE\n"
 # eval $(thefuck --alias)
