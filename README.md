@@ -1,25 +1,29 @@
 # mydotfiles
 
-## Setup
+# Prerequisites
 
-First clone this repository into your home directory:
-```bash
-cd ~
-git clone https://github.com/xchg-rax-rax/mydotfiles.git .dotfiles
-```
-
-Next make sure that `stow` is installed.
+Before we begin please install the following prerequisites.
 
 On arch:
 ```bash
-sudo pacman -Syu stow
+sudo pacman -Syu stow neofetch zsh nvim wal python python-pywal git polybar
 ```
 
 On Debian based distributions:
 ```bash
 sudo apt update 
 sudo apt upgrade
-sudo apt install stow
+sudo apt install stow neofetch zsh python-pip git
+sudo snap install nvim
+sudo pip3 install pywal
+```
+
+## Setup
+
+First clone this repository into your home directory:
+```bash
+cd ~
+git clone https://github.com/xchg-rax-rax/mydotfiles.git .dotfiles
 ```
 
 Now we can use stow to load the dot files:

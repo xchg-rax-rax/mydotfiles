@@ -2,8 +2,23 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor eDP-1 -d I II III IV V 
-bspc monitor HDMI-1 -d VI VII VIII IX X
+edp1_connected=$(xrandr -q | grep eDP-1 | cut -d ' ' -f 2 | tr -d '\n')
+dp2_connected=$(xrandr -q | grep DP-2 | cut -d ' ' -f 2 | tr -d '\n')
+hdmi1_connected=$(xrandr -q | grep HDMI-1 | cut -d ' ' -f 2 | tr -d '\n')
+
+if [ "$dp2_connected" == "connected" ] && [ "$hdmi1_connected" == "connected" ]; then
+    bspc monitor DP-2 -d I II III 
+    bspc monitor eDP-1 -d  IV V VI VII
+    bspc monitor HDMI-1 -d VIII IX X
+elif [ "$dp2_connected" == "disconnected" ] && [ "$hdmi1_connected" == "connected" ]; then
+    bspc monitor eDP-1 -d  I II III IV V 
+    bspc monitor HDMI-1 -d VI VII VIII IX X
+elif [ "$dp2_connected" == "connected" ] && [ "$hdmi1_connected" == "disconnected" ]; then
+    bspc monitor DP-2 -d I II III IV V
+    bspc monitor eDP-1 -d VI VII VIII IX X
+else
+    bspc monitor eDP-1 -d I II III IV V VI VII VIII IX X
+fi
 
 bspc config border_width         2
 bspc config window_gap          12
