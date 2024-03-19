@@ -293,7 +293,6 @@ PERL_MM_OPT="INSTALL_BASE=/home/jhon/perl5"; export PERL_MM_OPT;
 
 
 # Golang vars
-export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$HOME/.local/bin:$PATH:/snap/bin 
 
@@ -335,3 +334,6 @@ alias docker-purge='for hash in $(sudo docker ps | cut -d " " -f 1 | tail -n +2)
 
 export ORACLE_HOME='/usr/lib/oracle/19.6/client64'
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${ORACLE_HOME}/lib:/usr/local/lib"
+
+# Load API Keys
+export OPENAI_API_KEY="${cat ~/.openai_api.key}"

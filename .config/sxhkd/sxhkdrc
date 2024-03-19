@@ -22,6 +22,14 @@ super + b
 super + t
     alacritty -e btop
 
+# take a screenshot of entire screen
+super + s
+    cd ~/Pictures/screenshots && scrot
+
+# take a screenshot of region 
+super + shift + s
+    cd ~/Pictures/screenshots && scrot -s
+
 #
 # bspwm hotkeys
 #
