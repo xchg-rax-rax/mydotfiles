@@ -336,4 +336,4 @@ export ORACLE_HOME='/usr/lib/oracle/19.6/client64'
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${ORACLE_HOME}/lib:/usr/local/lib"
 
 # Load API Keys
-export OPENAI_API_KEY="${cat ~/.openai_api.key}"
+export OPENAI_API_KEY=$(cat ~/.openai_api.key)
