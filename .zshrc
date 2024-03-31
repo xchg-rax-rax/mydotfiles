@@ -285,16 +285,17 @@ export BROWSER=firefox
 
 
 
-PATH="/home/jhon/.config/emacs/bin:/home/jhon/perl5/bin${PATH:+:${PATH}}"; export PATH;
-PERL5LIB="/home/jhon/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
-PERL_LOCAL_LIB_ROOT="/home/jhon/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
-PERL_MB_OPT="--install_base \"/home/jhon/perl5\""; export PERL_MB_OPT;
-PERL_MM_OPT="INSTALL_BASE=/home/jhon/perl5"; export PERL_MM_OPT;
+PERL5LIB="${HOME}/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+PERL_LOCAL_LIB_ROOT="${HOME}/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+PERL_MB_OPT="--install_base \"${HOME}/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=${HOME}/perl5"; export PERL_MM_OPT;
 
 
 # Golang vars
 export GOPATH=$HOME/go
-export PATH=$GOPATH/bin:$GOROOT/bin:$HOME/.local/bin:$PATH:/snap/bin 
+export PATH=$GOPATH/bin:$GOROOT/bin:$HOME/.local/bin:$PATH
+
+export PATH="/snap/bin:${HOME}/snap/nvim/current:${HOME}/.config/emacs/bin:${HOME}/perl5/bin:${PATH}";
 
 alias ossh='ssh -o MACs=hmac-sha2-256 -o "UserKnownHostsFile=/dev/null" -o "StrictHostKeyChecking=no" '
 alias oscp='scp -o MACs=hmac-sha2-256 -o "UserKnownHostsFile=/dev/null" -o "StrictHostKeyChecking=no" '
@@ -320,7 +321,6 @@ alias upper="tr '[:lower:]' '[:upper:]' | cat"
 alias lower="tr '[:upper:]' '[:lower:]' | cat"
 alias msf="msfconsole"
 alias clpbrd='xclip -selection clipboard'
-echo "\nWHEN YOU HAVE A SET OF CREDENTIALS TRY THEM LITERALLY EVERYWHERE\n"
 # set up vi mode
 bindkey -v
 bindkey '^R' history-incremental-search-backward
@@ -336,4 +336,7 @@ export ORACLE_HOME='/usr/lib/oracle/19.6/client64'
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${ORACLE_HOME}/lib:/usr/local/lib"
 
 # Load API Keys
-export OPENAI_API_KEY=$(cat ~/.openai_api.key)
+OPENAI_API_KEY_PATH="${HOME}/.openai_api.key"
+if [ -e OPENAI_API_KEY_PATH ]; then
+	export OPENAI_API_KEY=$(cat ~/.openai_api.key);
+fi
