@@ -6,14 +6,14 @@ Before we begin please install the following prerequisites.
 
 On arch:
 ```bash
-sudo pacman -Syu stow neofetch zsh nvim wal python python-pywal git polybar
+sudo pacman -Syu stow neofetch zsh nvim wal python python-pywal git polybar tmux alacritty
 ```
 
 On Debian based distributions:
 ```bash
 sudo apt update 
 sudo apt upgrade
-sudo apt install stow neofetch zsh python-pip git
+sudo apt install stow neofetch zsh python3-pip git tmux alacritty
 sudo snap install nvim
 sudo pip3 install pywal
 ```
