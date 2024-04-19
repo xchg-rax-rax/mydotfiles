@@ -58,14 +58,6 @@ local plugins = {
         dependencies = { 'nvim-tree/nvim-web-devicons' }
     },
     {
-        "github/copilot.vim",
-        cmd = "Copilot",
-        event = "InsertEnter",
-        config = function()
-            require("copilot").setup({})
-        end,
-    },
-    {
         'rust-lang/rust.vim',
         ft = { 'rust' },
     }
