@@ -308,6 +308,7 @@ alias objdump="objdump -M intel"
 alias upper="tr '[:lower:]' '[:upper:]' | cat"
 alias lower="tr '[:upper:]' '[:lower:]' | cat"
 alias msf="msfconsole"
+alias cme="crackmapexec"
 alias clpbrd='xclip -selection clipboard'
 
 alias ossh='ssh -o MACs=hmac-sha2-256 -o "UserKnownHostsFile=/dev/null" -o "StrictHostKeyChecking=no" '
