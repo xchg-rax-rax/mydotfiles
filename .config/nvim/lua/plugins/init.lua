@@ -60,6 +60,10 @@ local plugins = {
     {
         'rust-lang/rust.vim',
         ft = { 'rust' },
+    },
+    {
+        'leafOfTree/vim-svelte-plugin',
+        ft = { 'svelte' },
     }
 }
 return plugins

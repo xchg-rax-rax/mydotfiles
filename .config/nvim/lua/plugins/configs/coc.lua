@@ -17,6 +17,8 @@ vim.g.coc_global_extensions = {
     'coc-pyright',
     'coc-python',
     'coc-rust-analyzer',
+    'coc-svelte',
+    'coc-go',
 }
 
 -- Some servers have issues with backup files, see #649
