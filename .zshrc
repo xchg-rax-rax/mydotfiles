@@ -341,3 +341,8 @@ OPENAI_API_KEY_PATH="${HOME}/.openai_api.key"
 if [ -e OPENAI_API_KEY_PATH ]; then
 	export OPENAI_API_KEY=$(cat ~/.openai_api.key);
 fi
+
+export USER_EMACS_DIRECTORY="$HOME/.config/emacs"
+
+# Set up kdb+
+alias q='QHOME=~/q rlwrap -r ~/q/l64/q'
