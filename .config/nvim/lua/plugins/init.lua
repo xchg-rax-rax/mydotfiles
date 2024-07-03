@@ -67,6 +67,10 @@ local plugins = {
         config = function()
             vim.g.vim_svelte_plugin_use_typescript = 1
         end,
-    }
+    },
+    {
+        'hylang/vim-hy',
+        ft = { 'hy' },
+    },
 }
 return plugins
