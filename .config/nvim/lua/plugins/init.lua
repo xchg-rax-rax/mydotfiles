@@ -1,13 +1,27 @@
 local plugins = {
-    -- Night Owl is the stylish theme you're currently using
     {
-      "oxfist/night-owl.nvim",
+      "xero/evangelion.nvim",
       lazy = false,
-      priority = 1000, -- load theme first
-      config = function()
-        vim.cmd.colorscheme("night-owl")
+      priority = 1000,
+      opts = {
+        overrides = {
+          keyword = { fg = "#00ff00", bg = "#222222", undercurl = true },
+          ["@boolean"] = { link = "Special" },
+        },
+      },
+      init = function()
+        vim.cmd.colorscheme("evangelion")
       end,
     },
+    -- Night Owl is the stylish theme you're currently using
+--    {
+--      "oxfist/night-owl.nvim",
+--      lazy = false,
+--      priority = 1000, -- load theme first
+--      config = function()
+--        vim.cmd.colorscheme("night-owl")
+--      end,
+--    },
     {
         "rhysd/vim-clang-format",
         lazy = true,
