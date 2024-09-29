@@ -2,5 +2,5 @@
   "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/17.0.3/clangd_17.0.3/bin/clangd",
   "powershell.integratedConsole.showOnStartup": false,
   "snippets.ultisnips.pythonPrompt": false,
-  "svelte.enable-ts-plugin": true
+  "svelte.enable-ts-plugin": true,
 }
