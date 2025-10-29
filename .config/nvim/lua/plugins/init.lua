@@ -6,8 +6,7 @@ local plugins = {
       opts = {
         overrides = {
           keyword = { fg = "#00ff00", bg = "#222222", undercurl = true },
-          ["@boolean"] = { link = "Special" },
-        },
+          ["@boolean"] = { link = "Special" }, },
       },
       init = function()
         vim.cmd.colorscheme("evangelion")
@@ -86,5 +85,30 @@ local plugins = {
         'hylang/vim-hy',
         ft = { 'hy' },
     },
+    {
+        'benknoble/vim-mips',
+        ft = { 'asm' },
+    },
+    {
+      "ray-x/go.nvim",
+      dependencies = {  -- optional packages
+        "ray-x/guihua.lua",
+        "neovim/nvim-lspconfig",
+        "nvim-treesitter/nvim-treesitter",
+      },
+      config = function()
+        require("go").setup()
+      end,
+      event = {"CmdlineEnter"},
+      ft = {"go", 'gomod'},
+      build = ':lua require("go.install").update_all_sync()' -- if you need to install/update all binaries
+    },
+    {
+        "OmniSharp/omnisharp-vim",
+        ft = { 'cs' },
+    },
+    {
+        "tidalcycles/vim-tidal"
+    }
 }
 return plugins

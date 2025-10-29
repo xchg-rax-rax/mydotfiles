@@ -14,9 +14,9 @@ super + @space
 super + Escape
 	pkill -USR1 -x sxhkd
 
-# start brave
-super + b
-    brave
+# start firefox 
+super + f
+	firefox 
 
 # start btop
 super + t
@@ -61,6 +61,11 @@ super + {_,shift + }q
 # set the window state
 #super + {t,shift + t,s,f}
 #	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# switch between fullscreen and tiled
+super + F11
+    bspc node --state ~fullscreen
+
 
 # set the node flags
 #super + ctrl + {m,x,y,z}

@@ -156,3 +156,27 @@ vim.api.nvim_set_keymap(
     }
 )
 
+---------------------------------
+-- Setup coc-nvim Key-Bindings --
+---------------------------------
+
+-- nmap <silent> [g <Plug>(coc-diagnostic-prev)
+vim.api.nvim_set_keymap(
+    "n",
+    "[g",
+    "<Plug>(coc-diagnostic-prev)",
+    {
+        noremap = true,
+        silent = true
+    }
+)
+-- nmap <silent> ]g <Plug>(coc-diagnostic-next)
+vim.api.nvim_set_keymap(
+    "n",
+    "]g",
+    "<Plug>(coc-diagnostic-next)",
+    {
+        noremap = true,
+        silent = true
+    }
+)

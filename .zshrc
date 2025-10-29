@@ -268,7 +268,8 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 
 # pretty stuff
 wal -a 85 -R &>/dev/null 
-neofetch
+fastfetch
+echo "Please Do Not Teach Stupid People Acronyms!"
 echo "\nWHEN YOU HAVE A SET OF CREDENTIALS TRY THEM LITERALLY EVERYWHERE\n"
 # eval $(thefuck --alias)
 
@@ -346,3 +347,28 @@ export USER_EMACS_DIRECTORY="$HOME/.config/emacs"
 
 # Set up kdb+
 alias q='QHOME=~/q rlwrap -r ~/q/l64/q'
+# Load pyenv automatically by appending
+# the following to
+# ~/.zprofile (for login shells)
+# and ~/.zshrc (for interactive shells) :
+
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+# Finally, if we're not using tmux start it
+if [[ "$TERM_PROGRAM" != "tmux" && -n "$ALACRITTY_WINDOW_ID" ]]; then
+    tmux;
+fi
+
+# Fix this 
+#alias ipwhois='echo "http://ipinfo.io/${1}"'
+
+# Add .NET Core SDK tools
+export PATH="$PATH:/home/user/.dotnet/tools"
+
+export GITLAB_HOME=/home/user/.gitlab
+
+# stop the god awful avalanche of debug messages that wine generates
+export WINEDEBUG=-all,warning+err
+

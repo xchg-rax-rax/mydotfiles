@@ -1,6 +1,13 @@
 {
-  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/17.0.3/clangd_17.0.3/bin/clangd",
-  "powershell.integratedConsole.showOnStartup": false,
-  "snippets.ultisnips.pythonPrompt": false,
-  "svelte.enable-ts-plugin": true,
+    "clangd.path": "~/.dotfiles/.config/coc/extensions/coc-clangd-data/install/18.1.3/clangd_18.1.3/bin/clangd",
+    "powershell.integratedConsole.showOnStartup": false,
+    "snippets.ultisnips.pythonPrompt": false,
+    "svelte.enable-ts-plugin": true,
+    "languageserver": {
+        "csharp-ls": {
+          "command": "csharp-ls",
+          "filetypes": ["cs"],
+          "rootPatterns": ["*.csproj", ".vim/", ".git/", ".hg/"]
+        }
+    }
 }
