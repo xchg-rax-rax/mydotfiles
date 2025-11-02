@@ -1,0 +1,1 @@
+("~/dev/page_up_mark_down/" "~/dev/juju/quiz/data_from_humans/" "~/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/" "~/dev/CVE-2025-53770/dotnet/SerializerLib/" "~/notes/notes/" "~/dev/payday/" "~/.emacs.d/elpa/vterm-20241218.331/" "~/dev/ising_model/" "~/dev/Basic-RPG-Engine/" "~/dev/protocol_implemenations/pop3_server_lib/" "~/dev/pop3_brute/")

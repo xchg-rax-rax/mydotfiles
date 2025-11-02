@@ -1,0 +1,8 @@
+/home/user/test.org
+/home/user/#test.org#
+/home/user/##test.org##
+/home/user/###test.org###
+/home/user/.emacs.d/init.el
+/home/user/.emacs.d/#init.el#
+/usr/share/emacs/30.1/etc/HELLO
+/usr/share/emacs/30.1/etc/#HELLO#

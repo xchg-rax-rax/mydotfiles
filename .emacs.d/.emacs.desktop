@@ -1,0 +1,1567 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Sep  8 16:29:10 2025
+;; Desktop file format version 208
+;; Emacs version 30.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (26814 55846 199001 668000) (desktop . "208") "user@hadrian" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-UKWN-Adwaita Mono-regular-normal-normal-*-15-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha 95 95) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "green") (font-parameter) (environment) (dnd-root-window-position) (last-focus-update . t) (tabs (current-tab (name . "nepal.org") (explicit-name)) (tab (name . "business_plan.org") (explicit-name) (time . 1757338015.289911) (ws ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 45) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (parameters (context "business_plan.org" (front-context-string . "#+TITLE: UK Busi") (rear-context-string . ""))) (buffer "business_plan.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)) (prev-buffers ("documents" 1 120) ("org" 1 159)))) (tab (name . "wishlist.org") (explicit-name) (time . 1757338015.6115685) (ws ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 80) (min-pixel-width . 180) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 90) (min-pixel-height-safe . 20) (min-pixel-width-safe . 36)) hc (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 945) (pixel-height . 966) (total-width . 105) (total-height . 48) (normal-height . 1.0) (normal-width . 0.4994714587737844) (parameters (context "wishlist.org" (front-context-string . "") (rear-context-string . " for completion\n"))) (buffer "wishlist.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 621) (start . 1)) (prev-buffers ("wishlist.org" 1 576) ("planning<org>" 1 352) ("org" 1 1) ("learning" 1 1) ("learning.org" 1 1394))) (leaf (last . t) (pixel-width . 947) (pixel-height . 966) (total-width . 105) (total-height . 48) (normal-height . 1.0) (normal-width . 0.5005285412262156) (parameters (context "learning.org" (front-context-string . "search\n******* T") (rear-context-string . "\n****** n-day re"))) (buffer "learning.org" (selected) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2400) (start . 1363)) (prev-buffers ("learning.org" 584 2166))))) (tab (name . "2_9_2025.org") (explicit-name) (time . 1757338015.8628075) (ws ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 80) (min-pixel-width . 180) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 90) (min-pixel-height-safe . 20) (min-pixel-width-safe . 36)) hc (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 945) (pixel-height . 966) (total-width . 105) (total-height . 48) (normal-height . 1.0) (normal-width . 0.4994714587737844) (parameters (context "2_9_2025.org" (front-context-string . "") (rear-context-string . "TB subscription\n"))) (buffer "2_9_2025.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 541) (start . 1)) (prev-buffers ("2_9_2025.org" 1 528) ("1_9_2025.org" 1 246))) (leaf (last . t) (pixel-width . 947) (pixel-height . 966) (total-width . 105) (total-height . 48) (normal-height . 1.0) (normal-width . 0.5005285412262156) (parameters (context)) (buffer "*Messages*" (selected) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 6038) (start . 4909)) (prev-buffers ("1_9_2025.org" 28 246) ("26_8_2025.org" 1 187) ("7_8_25.org" 1 15) ("todo" 1 239) ("5_8_25.org" 1 1) ("org" 1 1) ("shopping" 1 114) ("05_08_2025.org" 1 201) ("reading_list.org" 1 416))))) (tab (name . "medicine.org") (explicit-name) (time . 1757338016.3250434) (ws ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 45) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (parameters (context "medicine.org" (front-context-string . "*** crash course") (rear-context-string . "isite knowledge\n"))) (buffer "medicine.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 81) (start . 1)) (prev-buffers ("medicine.org" 1 758) ("learning" 1 618) ("org" 1 214) ("todo" 1 388) ("26_8_2025.org" 1 265)))) (tab (name . "n_day_development_targets.org") (explicit-name) (time . 1757338016.7084632) (ws ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 45) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (parameters (context "n_day_development_targets.org" (front-context-string . "g\n** Atlassian C") (rear-context-string . " other citrix bu"))) (buffer "n_day_development_targets.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1384) (start . 1)) (prev-buffers ("n_day_development_targets.org" 1 1846)))) (tab (name . "priority.org") (explicit-name) (time . 1757338017.2413225) (ws ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 45) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (parameters (context "priority.org" (front-context-string . "t\n*** TODO [#A] ") (rear-context-string . "nge).\n\n** highes"))) (buffer "priority.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 175) (start . 1)) (prev-buffers ("priority.org" 1 622) ("planning<org>" 1 352) ("org" 1 1) ("todo" 1 110) ("6_8_2025.org" 65 593))))) (frameset--id . "A9C0-3E9C-2BF3-E994") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (lsp-ui-doc-buffer . "Unprintable entity") (fullscreen-restore) (sticky) (shaded) (height . 49) (width . 208) (left . 12) (top . 54)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 45) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 1892) (pixel-height . 966) (total-width . 210) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (parameters (context)) (buffer "nepal.org" (selected . t) (hscroll . 0) (fringes 10 10 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 339) (start . 1)) (prev-buffers ("*lsp-log*" 1 1) ("init.el" 1 814))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring '(#("load-" 0 5 (isearch-case-fold-search t)) #("all-the" 0 7 (isearch-case-fold-search t)) #("Skill" 0 5 (isearch-case-fold-search nil)) #("private " 0 8 (isearch-case-fold-search nil)) #("Magic" 0 5 (isearch-case-fold-search nil)) #("this\\." 0 6 (isearch-case-fold-search t)) #("public int " 0 11 (isearch-case-fold-search t)) #("status" 0 6 (isearch-case-fold-search t)) #("class Buff" 0 10 (isearch-case-fold-search nil)) #(";" 0 1 (isearch-case-fold-search nil)) #("public [a-zA-Z\\.]* " 0 19 (isearch-case-fold-search nil)) #("Buff" 0 4 (isearch-case-fold-search nil)) #("\n        {" 0 10 (isearch-case-fold-search t)) #("\n            {" 0 14 (isearch-case-fold-search t)) #("e" 0 1 (isearch-case-fold-search t)) #("damagedone" 0 10 (isearch-case-fold-search nil))))
+(setq register-alist '((105 . [(down-mouse-1 ("Unprintable entity" 10747 (275 . 98) 17271069 nil 10747 (30 . 4) nil (2 . 18) (9 . 20))) (mouse-1 ("Unprintable entity" 10747 (275 . 98) 17271179 nil 10747 (30 . 4) nil (2 . 18) (9 . 20))) (mouse-1 ("Unprintable entity" 10747 (275 . 98) 17271179 nil 10747 (30 . 4) nil (2 . 18) (9 . 20)))]) (113) (97) (106) (48 . #("            user.currentSP = user.currentSP - spCost;\n            user.currentMP = user.currentMP - mpCost;\n" 0 37 (yank-handler (evil-yank-line-handler nil t) fontified t) 37 53 (yank-handler (evil-yank-line-handler nil t) fontified t) 53 108 (yank-handler (evil-yank-line-handler nil t) fontified t)))))
+(setq file-name-history '("/home/user/dev/Basic-RPG-Engine/Basic Rpg/" "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Skill.cs" "/home/user/dev/go_mocking_jay" "/home/user/org/todo/" "/home/user/dev/payday/" "/home/user/.emacs.d/.lsp-session-v1" "/home/user/dev/ising_model/" "/home/user/dev/" "/home/user/dev/ising_model" "/home/user/org/" "/home/user/dev/CVE-2025-53652" "/home/user/org/documents" "/home/user/org/" "/home/user/dev/payday" "/home/user/org/writing" "/home/user/org/tooling" "/home/user/org/meeting_notes" "/home/user/org/work" "/home/user/org/shopping" "/home/user/org/todo" "/home/user/dev/CVE-2025-53770/dotnet/" "/home/user/dev/CVE-2025-53770/Makefile" "/" "/home/user/org/learning/devops.org" "/home/user/org/learning" "/home/user/dev/CVE-2025-53770/docs/" "/home/user/dev/CVE-2025-53770" "/home/user/dev/page_up_mark_down/docs/plan.md" "/home/user/fin.md" "/home/user/org/planning/fin.org" "/home/" "/home/user/dev/page_up_mark_down/src/main.rs" "/home/user/dev/page_up_mark_down/src/main.ris" "/home/user/dev/juju/quiz/data_from_humans/frontend/about.html" "/home/user/dev/page_up_mark_down/" "/home/user/dev/page_up_mark_down/src/markdown_parser.rs" "/home/user/dev/page_up_mark_down/" "/home/user/dev/pop3_brute/" "/home/user/dev/page_up_mark_down/src/main.rs" "/home/user/dev/protocol_implemenations/pop3_server_lib/src/lib.rs" "/home/user/.emacs.d/" "/home/user/.emacs.d/init.el" "/home/user/dev/page_up_mark_down/docs/plan.md" "/home/user/dev/protocol_implemenations/" "/home/user/dev/page_up_mark_down/src/markdown_parser.rs" "/home/user/org/planning/whishlist.org" "/home/user/org/planning/#wishlist.org#" "/home/user/dev/page_up_mark_down/" "/home/user/.emacs.d/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/user/org/planning/nepal.org"
+  "nepal.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode display-line-numbers-mode evil-local-mode company-mode org-bullets-mode)
+  339
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55845 443690 559000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(display-line-numbers-mode visual-line-mode eldoc-mode font-lock-mode company-mode evil-local-mode)
+  735
+  '(5791 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55842 740991 466000) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (5380 3508 3508 1705 786 786 787 815 4190 3269 2014 2014 2012 2012 2013 3533))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/priority.org"
+  "priority.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  175
+  '(176 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55267 691865 147000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (342 549 362 625 455 481))))
+
+(desktop-create-buffer 208
+  "/home/user/org/work/n_day_development_targets.org"
+  "n_day_development_targets.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  1384
+  '(1385 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55267 689998 835000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1055 1038 1015 697 1538 1518 2137 1977 2133 1974 2133 1974 1974 1902 1938 1973))))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/medicine.org"
+  "medicine.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode evil-local-mode company-mode org-bullets-mode)
+  81
+  '(81 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55266 638812 95000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (758 758 758 698 456 586 557 557 674 758 758))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/2_9_2025.org"
+  "2_9_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode evil-local-mode company-mode org-bullets-mode)
+  541
+  '(541 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55775 966162 158000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/wishlist.org"
+  "wishlist.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  621
+  '(621 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55779 308836 535000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (481 297 437 437 437 195 216 155 155))))
+
+(desktop-create-buffer 208
+  "/home/user/org/documents/business_plan.org"
+  "business_plan.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  1
+  '(322 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55800 459992 311000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2519 457))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/juju_planning.org"
+  "juju_planning.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode company-mode evil-local-mode font-lock-mode)
+  43
+  '(44 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55800 464227 926000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (87))))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/learning.org"
+  "learning.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  2400
+  '(2088 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55800 900027 197000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1394 832 2453 3239 2531 3095 3095 3018 2904 3633 927 1433 3434 3488 3024 2043))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/juju_room.org"
+  "juju_room.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode company-mode evil-local-mode font-lock-mode)
+  316
+  '(316 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55801 109388 694000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (317 318))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/juju_health.org"
+  "juju_health.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode evil-local-mode company-mode org-bullets-mode)
+  193
+  '(193 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55801 319894 419000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (194 2224 250))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/pop3_brute/src/main.rs"
+  "main.rs"
+  'rust-mode
+  '(company-mode lsp-completion-mode flycheck-mode lsp-diagnostics-mode lsp-headerline-breadcrumb-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-lens-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-managed-mode lsp-mode display-line-numbers-mode visual-line-mode flymake-mode font-lock-mode evil-local-mode)
+  1850
+  '(1851 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26814 55801 550628 42000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (774 118 112 330 117 450))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Skill.cs"
+  "Skill.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode flycheck-mode lsp-diagnostics-mode lsp-headerline-breadcrumb-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-lens-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode lsp-managed-mode company-mode lsp-completion-mode lsp-mode font-lock-mode evil-local-mode)
+  2792
+  '(1490 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55802 80227 404000) (buffer-file-coding-system . utf-8-with-signature-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (915 915 914 1335 1615 861 1332 1332 1333 1283 1283 847 1119 1967 1615 1487))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Program.cs"
+  "Program.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode flycheck-mode lsp-diagnostics-mode lsp-headerline-breadcrumb-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-lens-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode lsp-managed-mode evil-local-mode font-lock-mode company-mode lsp-completion-mode lsp-mode lsp-signature-mode)
+  1897
+  '(1898 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55803 244770 308000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1094 999 1086 1091 1061 1062 1034))))
+
+(desktop-create-buffer 208
+  "/home/user/org/work/automated_ad_exploitation.org"
+  "automated_ad_exploitation.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode org-bullets-mode evil-local-mode)
+  502
+  '(502 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55803 613062 532000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (203))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/protocol_implemenations/pop3_server_lib/src/lib.rs"
+  "lib.rs"
+  'rust-mode
+  '(company-mode lsp-completion-mode flycheck-mode lsp-diagnostics-mode lsp-headerline-breadcrumb-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-lens-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-managed-mode lsp-mode display-line-numbers-mode visual-line-mode flymake-mode font-lock-mode evil-local-mode)
+  5199
+  '(5200 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26814 55804 540882 360000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (5665 5557 4214 4111 3974 1798 1798 1798 1630 253 254 29092 28672 28055 27361 26576))))
+
+(desktop-create-buffer 208
+  nil
+  "learning"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  618
+  '(618 nil)
+  t
+  '("/home/user/org/learning/")
+  '((buffer-display-time 26814 55805 108750 597000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (618 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  nil
+  "todo"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  388
+  '(388 nil)
+  t
+  '("/home/user/org/todo/")
+  '((buffer-display-time 26814 55805 910238 709000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (342 239 239 239 239 239 239 448 243 110 110 110 110 110))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/17_8_2025.org"
+  "17_8_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode org-bullets-mode evil-local-mode)
+  108
+  '(260 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55805 935048 151000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (378 210 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/7_8_25.org"
+  "7_8_25.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  15
+  '(15 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55806 496470 755000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (15 270 592 592 198 255 33 33 592 254 198 255 242))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Turn Controller.cs"
+  "Turn Controller.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode evil-local-mode company-mode font-lock-mode)
+  7987
+  '(7987 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55807 41930 339000) (buffer-file-coding-system . utf-8-with-signature-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (7852 7852 5401 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Player.cs"
+  "Player.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode evil-local-mode company-mode font-lock-mode)
+  497
+  '(497 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55807 56091 907000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Item.cs"
+  "Item.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode evil-local-mode company-mode font-lock-mode)
+  1271
+  '(1271 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55809 158920 733000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1271))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/Basic-RPG-Engine/Basic Rpg/Entity.cs"
+  "Entity.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  6553
+  '(6553 nil)
+  nil
+  nil
+  '((buffer-display-time 26814 55809 185813 323000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (6553 6554 7587 8540 8540 6009 5934 4978 5570 5738 5738 5293 6296 6270 6171 6036))))
+
+(desktop-create-buffer 208
+  nil
+  "Basic Rpg"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  462
+  '(462 nil)
+  t
+  '("/home/user/dev/Basic-RPG-Engine/Basic Rpg/")
+  '((buffer-display-time 26814 55809 211091 473000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (280 611 611 680 1))))
+
+(desktop-create-buffer 208
+  nil
+  "Basic-RPG-Engine"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  391
+  '(391 nil)
+  t
+  '("/home/user/dev/Basic-RPG-Engine/")
+  '((buffer-display-time 26814 55809 226764 303000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (391))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/18_8_2025.org"
+  "18_8_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode org-bullets-mode evil-local-mode)
+  288
+  '(288 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26814 55809 292104 183000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (288 288 121 121 288))))
+
+(desktop-create-buffer 208
+  nil
+  "work"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  111
+  '(111 nil)
+  t
+  '("/home/user/org/work/")
+  '((buffer-display-time 26814 55810 872988 393000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (111))))
+
+(desktop-create-buffer 208
+  nil
+  "dev"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  4469
+  '(4092 nil)
+  t
+  '("/home/user/dev/")
+  '((buffer-display-time 26814 55810 959409 350000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  nil
+  "~"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  9689
+  '(9689 nil)
+  t
+  '("/home/user/")
+  '((buffer-display-time 26809 129 659305 698000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (9689 9689 9689 9565 9565 11084 11084 7822 7822 7822 6289 6289 6289 6157 6157 9298))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/12_8_2025.org"
+  "12_8_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  129
+  '(129 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26808 65140 505556 419000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (129 23))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/11_8_2025.org"
+  "11_8_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  257
+  '(257 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26808 65138 380122 107000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/vulnerability_research.org"
+  "vulnerability_research.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  368
+  '(328 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26808 65113 833038 451000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1903 1903 1500 1509 1903 1500 1500 1 647 647 1903 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/ising_model/src/bitgrid.rs"
+  "bitgrid.rs"
+  'rustic-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode font-lock-mode evil-local-mode)
+  280
+  '(1374 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26808 65127 700031 790000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (1900 1241 1562 1623 1623 1658 1614 1614 1258 1262 1242 1263 944 944 988 854))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53652/exploit.py"
+  "exploit.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  4907
+  '(4909 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26808 65136 885103 619000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1696 458 553 1909 1849 2035 255 255 116 1969 307 2154 1970 2355 2355 2355))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/setup.py"
+  "setup.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  74
+  '(74 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26808 8055 415914 93000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (72 106 419 419 72 287 288 419 99 419 419 419 419 419 419 293))))
+
+(desktop-create-buffer 208
+  nil
+  "payday"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  883
+  '(883 nil)
+  t
+  '("/home/user/dev/payday/" "/home/user/dev/payday/payday/")
+  '((buffer-display-time 26808 5034 962577 943000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1281 384 1104 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/c.py"
+  "c.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  1907
+  '(1503 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36710 188881 984000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (3385 2582 292 292 29 194 195 3308 2625 2625 2610 2876 2876 2877 2873 2873))))
+
+(desktop-create-buffer 208
+  nil
+  "payday"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  390
+  '(390 nil)
+  t
+  '("/home/user/dev/payday/payday/")
+  '((buffer-display-time 26807 36693 64248 459000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (287 697 800 433 530 740 633 633 433 381 330 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/netcat.py"
+  "netcat.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode font-lock-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode evil-local-mode)
+  1671
+  '(1671 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36693 399932 803000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (695 1628 1039 1075 230 211 491 492 399 468 336 336 336 1519 1519 1503))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/bash.py"
+  "bash.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  1901
+  '(1901 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36688 163243 684000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1901 104 38 220 994 702 746 424 841 726 609 508 874 766 667 644))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/perl.py"
+  "perl.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  2290
+  '(2290 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36667 868044 210000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (942 13 1508 2091 883 823 823 1474 2100 2222 2222 1350 1763 1763 1763 1763))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/curl.py"
+  "curl.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  155
+  '(155 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36634 697283 74000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (155 464 464 427 464 404 404 68 68 68 183 745 832 843 588 520))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/bash.py~"
+  "bash.py~"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode font-lock-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode evil-local-mode)
+  1
+  '(1 nil)
+  t
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36234 232727 506000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/payday/__init__.py"
+  "__init__.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode font-lock-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode evil-local-mode)
+  18
+  '(94 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26807 36217 653848 396000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2 59 1))))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  166
+  '(166 nil)
+  t
+  '("/home/user/dev/ising_model/src/")
+  '((buffer-display-time 26807 32631 17471 356000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (166 166))))
+
+(desktop-create-buffer 208
+  nil
+  "ising_model"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  389
+  '(389 nil)
+  t
+  '("/home/user/dev/ising_model/")
+  '((buffer-display-time 26807 32629 982665 826000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (389 389 389 389 1 1 1))))
+
+(desktop-create-buffer 208
+  nil
+  "CVE-2025-53652"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  85
+  '(85 nil)
+  t
+  '("/home/user/dev/CVE-2025-53652/")
+  '((buffer-display-time 26807 32625 901317 91000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (322 1 1))))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  275
+  '(275 nil)
+  t
+  '("/home/user/.emacs.d/")
+  '((buffer-display-time 26807 28751 147058 642000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (275 275))))
+
+(desktop-create-buffer 208
+  "/home/user/.emacs.d/.lsp-session-v1"
+  ".lsp-session-v1"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  355
+  '(355 nil)
+  nil
+  nil
+  '((buffer-display-time 26807 28743 389137 867000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (355))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/ising_model/src/tests/ising_model.rs"
+  "ising_model.rs"
+  'rust-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode flymake-mode lsp-mode font-lock-mode evil-local-mode)
+  8
+  '(9 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26807 28855 457660 711000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/page_up_mark_down/src/markdown_parser.rs"
+  "markdown_parser.rs"
+  'rust-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode flymake-mode lsp-mode font-lock-mode evil-local-mode)
+  10178
+  '(10178 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26807 28064 264528 620000) (buffer-file-coding-system . utf-8-emacs-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (7633 7474 8685 8623 8623 9405 9892 10022 9892 9405 9316 8871 9316 9405 9892 10022))))
+
+(desktop-create-buffer 208
+  nil
+  "landoflisp"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  122
+  '(122 nil)
+  t
+  '("/home/user/dev/landoflisp/")
+  '((buffer-display-time 26807 26335 802713 195000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  45
+  '(200 nil)
+  t
+  '("/home/user/dev/protocol_implemenations/pop3_server_lib/src/")
+  '((buffer-display-time 26807 26255 715241 855000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "meeting_notes"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  120
+  '(120 nil)
+  t
+  '("/home/user/org/meeting_notes/")
+  '((buffer-display-time 26806 39227 70815 984000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (120 120))))
+
+(desktop-create-buffer 208
+  "/home/user/org/meeting_notes/joe_06_08_2025.org"
+  "joe_06_08_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  35
+  '(35 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26806 39226 429830 218000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (365 322))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/#request.txt#"
+  "#request.txt#"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  2182
+  '(2182 nil)
+  nil
+  nil
+  '((buffer-display-time 26805 59362 335889 730000) (buffer-file-coding-system . utf-8-emacs-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53652/docker-compose.yml"
+  "docker-compose.yml"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  133
+  '(133 nil)
+  nil
+  nil
+  '((buffer-display-time 26805 20200 884537 909000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  nil
+  "elpa"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  121
+  '(121 nil)
+  t
+  '("/home/user/.emacs.d/elpa/")
+  '((buffer-display-time 26804 13687 444270 128000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (121))))
+
+(desktop-create-buffer 208
+  nil
+  "vterm-20241218.331"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  142
+  '(142 nil)
+  t
+  '("/home/user/.emacs.d/elpa/vterm-20241218.331/")
+  '((buffer-display-time 26804 13682 224633 825000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (142))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/6_8_2025.org"
+  "6_8_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  191
+  '(191 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26804 6894 344813 480000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (791 724 593 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/exploit.py"
+  "exploit.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode lsp-mode evil-local-mode)
+  2312
+  '(2312 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26804 5871 858432 297000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (558 558 552 552 2246 2246 2082 1171 1025 893 1307 889 675 942 694 2844))))
+
+(desktop-create-buffer 208
+  nil
+  "documents"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  120
+  '(120 nil)
+  t
+  '("/home/user/org/documents/")
+  '((buffer-display-time 26804 6032 2168 997000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/.pypirc"
+  ".pypirc"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  225
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26803 63893 225945 854000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  91
+  '(91 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-display-time 26803 60399 447833 958000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (77 77))))
+
+(desktop-create-buffer 208
+  nil
+  "docs"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  117
+  '(117 nil)
+  t
+  '("/home/user/dev/payday/docs/")
+  '((buffer-display-time 26803 60385 225460 431000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (221 162))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/docs/perl_rev_system.pl"
+  "perl_rev_system.pl"
+  'perl-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26803 60388 768787 700000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (155))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  83
+  '(83 nil)
+  nil
+  nil
+  '((buffer-display-time 26803 22390 310842 365000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (84 84 84 77 83 84 84 84))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/README.md"
+  "README.md"
+  'markdown-mode
+  '(display-line-numbers-mode visual-line-mode eldoc-mode font-lock-mode company-mode evil-local-mode)
+  398
+  '(398 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 26803 20859 108887 5000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (398 13 11))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/docs/perl_rev_exec.pl"
+  "perl_rev_exec.pl"
+  'perl-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 26803 18341 915704 485000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (246))))
+
+(desktop-create-buffer 208
+  "/home/user/.emacs.d/elpa/vterm-20241218.331/vterm.el"
+  "vterm.el"
+  'emacs-lisp-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode eldoc-mode company-mode evil-local-mode)
+  55835
+  '(55835 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 26803 980 275410 725000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (53774))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/README.md"
+  "README.md"
+  'markdown-mode
+  '(display-line-numbers-mode visual-line-mode eldoc-mode font-lock-mode company-mode evil-local-mode)
+  4218
+  '(4218 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 26802 60284 353629 710000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (4032 4169))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/payday/LICENSE"
+  "LICENSE"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  26
+  '(13592 nil)
+  nil
+  nil
+  '((buffer-display-time 26802 49213 620888 942000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (28 816 1))))
+
+(desktop-create-buffer 208
+  nil
+  "CVE-2025-53770"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  253
+  '(253 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/")
+  '((buffer-display-time 26802 47871 30113 631000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (146 255 665 355 354 647 647 411 468 522))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/portfolio.org"
+  "portfolio.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  739
+  '(739 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26802 47607 142716 735000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (184 328 412 560 585 586 586))))
+
+(desktop-create-buffer 208
+  "/home/user/org/planning/juju_easy.org"
+  "juju_easy.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  635
+  '(635 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26802 47604 393283 663000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (992 992 1027 1089 1071 744 578 970))))
+
+(desktop-create-buffer 208
+  "/home/user/org/writing/social_wtf.org"
+  "social_wtf.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  418
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26801 30387 470796 286000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "writing"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  118
+  '(118 nil)
+  t
+  '("/home/user/org/writing/")
+  '((buffer-display-time 26801 30223 214728 990000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "tooling"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  116
+  '(116 nil)
+  t
+  '("/home/user/org/tooling/")
+  '((buffer-display-time 26801 11544 851781 93000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/5_8_25.org"
+  "5_8_25.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26801 11219 177139 161000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1 971 820 971 971 583 971 820 583 584 559 873 820 820 820 359))))
+
+(desktop-create-buffer 208
+  nil
+  "shopping"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  114
+  '(114 nil)
+  t
+  '("/home/user/org/shopping/")
+  '((buffer-display-time 26799 35400 582555 495000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/shopping/05_08_2025.org"
+  "05_08_2025.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode org-bullets-mode font-lock-mode company-mode evil-local-mode)
+  201
+  '(201 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26799 35390 898563 932000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (200))))
+
+(desktop-create-buffer 208
+  "/home/user/Downloads/Present Objective.md"
+  "Present Objective.md"
+  'markdown-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode eldoc-mode company-mode evil-local-mode)
+  1
+  '(1730 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 26799 15368 31759 400000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/home/user/notes/notes/hacking/application security/CVE Hit List.md"
+  "CVE Hit List.md"
+  'markdown-mode
+  '(display-line-numbers-mode visual-line-mode eldoc-mode font-lock-mode company-mode evil-local-mode)
+  1011
+  '(1012 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 26799 9078 302827 23000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "application security"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  190
+  '(190 nil)
+  t
+  '("/home/user/notes/notes/hacking/application security/")
+  '((buffer-display-time 26799 8370 485362 484000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (439))))
+
+(desktop-create-buffer 208
+  nil
+  "targets"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  152
+  '(152 nil)
+  t
+  '("/home/user/notes/notes/hacking/application security/targets/")
+  '((buffer-display-time 26799 8369 482526 658000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "hacking"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  459
+  '(459 nil)
+  t
+  '("/home/user/notes/notes/hacking/")
+  '((buffer-display-time 26799 8336 479483 310000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "notes"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  4429
+  '(4429 nil)
+  t
+  '("/home/user/notes/notes/")
+  '((buffer-display-time 26799 8326 223042 869000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1464 1464 1164))))
+
+(desktop-create-buffer 208
+  nil
+  "notes"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  1828
+  '(1828 nil)
+  t
+  '("/home/user/notes/")
+  '((buffer-display-time 26799 8324 999569 762000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1551 1933 1879))))
+
+(desktop-create-buffer 208
+  nil
+  "hacking"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  119
+  '(119 nil)
+  t
+  '("/home/user/notes/hacking/")
+  '((buffer-display-time 26799 8323 885334 67000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (471))))
+
+(desktop-create-buffer 208
+  nil
+  "application security"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  136
+  '(136 nil)
+  t
+  '("/home/user/notes/hacking/application security/")
+  '((buffer-display-time 26799 8315 197417 415000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (307))))
+
+(desktop-create-buffer 208
+  nil
+  "targets"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  144
+  '(144 nil)
+  t
+  '("/home/user/notes/hacking/application security/targets/")
+  '((buffer-display-time 26799 8313 655387 141000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "to do lists"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  123
+  '(123 nil)
+  t
+  '("/home/user/notes/to do lists/")
+  '((buffer-display-time 26799 8283 201464 324000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "planning"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  120
+  '(120 nil)
+  t
+  '("/home/user/notes/planning/")
+  '((buffer-display-time 26799 8277 425679 293000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (225))))
+
+(desktop-create-buffer 208
+  nil
+  "Learning"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  125
+  '(125 nil)
+  t
+  '("/home/user/notes/planning/Learning/")
+  '((buffer-display-time 26799 8274 871658 384000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Documents"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  72
+  '(72 nil)
+  t
+  '("/home/user/Documents/")
+  '((buffer-display-time 26799 8254 123155 810000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/4_8_25.org"
+  "4_8_25.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  110
+  '(110 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26799 6704 382343 289000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (111 87 86))))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/reading_list.org"
+  "reading_list.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  416
+  '(416 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26799 5629 116990 339000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (416 409 322))))
+
+(desktop-create-buffer 208
+  "/home/user/org/todo/3_8_25.org"
+  "3_8_25.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  37
+  '(37 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26799 3161 470722 725000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (13 24 185 185 185 185 185 185))))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/devops.org"
+  "devops.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  431
+  '(431 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26797 20889 189968 166000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (842 843 451 452 450 120 271 270 362 1 1 270 1004 518 2240 2240))))
+
+(desktop-create-buffer 208
+  nil
+  "pop3_server_lib"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  513
+  '(513 nil)
+  t
+  '("/home/user/dev/protocol_implemenations/pop3_server_lib/")
+  '((buffer-display-time 26797 15695 638922 941000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/org/learning/frontend.org"
+  "frontend.org"
+  'org-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode org-bullets-mode company-mode evil-local-mode)
+  729
+  '(729 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26797 15689 426035 267000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (729 728 222 222 222 368 419 53 723 729 729 505 729 729))))
+
+(desktop-create-buffer 208
+  nil
+  "docs"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  126
+  '(126 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/docs/")
+  '((buffer-display-time 26797 15622 440210 428000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (126 171 126 173 173))))
+
+(desktop-create-buffer 208
+  nil
+  "dotnet"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  129
+  '(129 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/dotnet/")
+  '((buffer-display-time 26797 15614 72786 609000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (175 175))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/dotnet/SerializerLib/SerializerLib.cs"
+  "SerializerLib.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  412
+  '(412 nil)
+  nil
+  nil
+  '((buffer-display-time 26797 15614 677171 554000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (413 713 713 713 713 713 713 376 482 482 206 206 51 51))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/dotnet/SerializerLib/SerializerLib.csproj"
+  "SerializerLib.csproj"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  62
+  '(62 nil)
+  nil
+  nil
+  '((buffer-display-time 26797 9716 530704 989000) (buffer-file-coding-system . utf-8-with-signature-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (253))))
+
+(desktop-create-buffer 208
+  nil
+  "SerializerLib"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  249
+  '(249 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/dotnet/SerializerLib/")
+  '((buffer-display-time 26797 9686 249154 537000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (189))))
+
+(desktop-create-buffer 208
+  nil
+  "CVE-2025-53770-Exploit"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  150
+  '(150 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/")
+  '((buffer-display-time 26797 9666 192821 729000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (150 150 150 196 297 244))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/YSLosf/Program.cs"
+  "Program.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  87
+  '(88 nil)
+  nil
+  nil
+  '((buffer-display-time 26797 9617 492954 652000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2255 2206 2206 2256 2093 1987 2217 2001 2001 2001 2001 2001 2001 2000 1816 1817))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/dotnet/encode_payload.cs"
+  "encode_payload.cs"
+  'csharp-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  356
+  '(356 nil)
+  nil
+  nil
+  '((buffer-display-time 26797 9530 835823 869000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (357 722 413 696 725 435 152 152 733 100 732))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/scripts/setup_venv.sh"
+  "setup_venv.sh"
+  'sh-mode
+  '(display-line-numbers-mode visual-line-mode sh-electric-here-document-mode font-lock-mode company-mode evil-local-mode)
+  64
+  '(64 nil)
+  nil
+  nil
+  '((buffer-display-time 26797 8795 163440 462000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (226 204 204 23 51 12 46))))
+
+(desktop-create-buffer 208
+  nil
+  ".git"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  155
+  '(155 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/.git/")
+  '((buffer-display-time 26797 7455 372659 231000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "YSLosf"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  157
+  '(157 nil)
+  t
+  '("/home/user/dev/CVE-2025-53770/docs/CVE-2025-53770-Exploit/YSLosf/")
+  '((buffer-display-time 26797 7453 188368 2000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (203))))
+
+(desktop-create-buffer 208
+  nil
+  "home"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  150
+  '(150 nil)
+  t
+  '("/home/")
+  '((buffer-display-time 26797 7158 855840 750000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (150))))
+
+(desktop-create-buffer 208
+  nil
+  "/"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  404
+  '(404 nil)
+  t
+  '("/")
+  '((buffer-display-time 26797 7152 452847 210000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (625 625))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/payload_payload.bin"
+  "payload_payload.bin"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 26797 3661 799167 817000) (buffer-file-coding-system . no-conversion) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/payload.bin"
+  "payload.bin"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  367
+  '(367 nil)
+  nil
+  nil
+  '((buffer-display-time 26796 54381 190106 592000) (buffer-file-coding-system . no-conversion) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "protocol_implemenations"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  41
+  '(41 nil)
+  t
+  '("/home/user/dev/protocol_implemenations/")
+  '((buffer-display-time 26796 32797 262537 260000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (42))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/CVE-2025-53770/payload_payload.b64"
+  "payload_payload.b64"
+  'fundamental-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  14523
+  '(14523 nil)
+  nil
+  nil
+  '((buffer-display-time 26807 28966 921964 334000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/python_template.py"
+  "python_template.py"
+  'python-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode lsp-mode yas-minor-mode highlight-indentation-mode flymake-mode elpy-mode font-lock-mode evil-local-mode)
+  161
+  '(161 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 26796 20460 691379 923000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "docs"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  284
+  '(284 nil)
+  t
+  '("/home/user/dev/page_up_mark_down/docs/")
+  '((buffer-display-time 26795 37393 65097 807000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/user/dev/page_up_mark_down/src/main.rs"
+  "main.rs"
+  'rust-mode
+  '(flycheck-mode display-line-numbers-mode visual-line-mode company-mode lsp-modeline-workspace-status-mode lsp-ui-doc-mode lsp-ui-sideline-mode lsp-ui-mode eldoc-mode flymake-mode font-lock-mode lsp-mode evil-local-mode)
+  1306
+  '(1306 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode) (buffer-display-time 26795 35362 73260 609000) (buffer-file-coding-system . utf-8-emacs-unix) (overwrite-mode) (fill-column . 100) (truncate-lines))
+  '((mark-ring (1307 650 1012 1013 1275 1134 1134 1134 1134 1134 1127 1549 1604 1003 1065 1065))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/juju/quiz/data_from_humans/frontend/about.html"
+  "about.html"
+  'css-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  279
+  '(230 nil)
+  nil
+  nil
+  '((buffer-display-time 26794 61889 268392 375000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (533 497 451))))
+
+(desktop-create-buffer 208
+  "/home/user/dev/page_up_mark_down/docs/test.md"
+  "test.md"
+  'markdown-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode eldoc-mode company-mode evil-local-mode)
+  31
+  '(31 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 26794 47920 495111 98000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "pop3_brute"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  388
+  '(388 nil)
+  t
+  '("/home/user/dev/pop3_brute/")
+  '((buffer-display-time 26794 47848 649484 626000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (443))))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  168
+  '(168 nil)
+  t
+  '("/home/user/dev/pop3_brute/src/")
+  '((buffer-display-time 26794 47833 23551 661000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (168))))
+
+(desktop-create-buffer 208
+  nil
+  "src"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  245
+  '(245 nil)
+  t
+  '("/home/user/dev/page_up_mark_down/src/")
+  '((buffer-display-time 26794 47642 228725 561000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (245 360))))
+
+(desktop-create-buffer 208
+  nil
+  "page_up_mark_down"
+  'dired-mode
+  '(display-line-numbers-mode visual-line-mode font-lock-mode company-mode evil-local-mode)
+  400
+  '(400 nil)
+  t
+  '("/home/user/dev/page_up_mark_down/")
+  '((buffer-display-time 26814 40163 983478 448000) (overwrite-mode) (truncate-lines))
+  '((mark-ring (400 400 501))))
+
